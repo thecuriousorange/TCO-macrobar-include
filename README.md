@@ -4,9 +4,9 @@ by TheCuriousOrange
 This is a little project I made for my gearswap gui that I ported to an include file for all.
 
 instructions
-1)place the data folder in your gearswap folder
+1) place the data folder in your gearswap folder
 
-2)make a copy of each macrobar in the images folder renaming in this format x_y_z_macros.png
+2) make a copy of each macrobar in the images folder renaming in this format x_y_z_macros.png
 	
 	x=main job 3 letter abreviation in capitals
 	y=sub job 3 letter abreviation in capitals
