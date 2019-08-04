@@ -8,8 +8,8 @@ instructions
 
 2) make a copy of each macrobar in the images folder renaming in this format x_y_z_macros.png
 	
-	x=main job 3 letter abreviation in capitals
-	y=sub job 3 letter abreviation in capitals
+	x=main job 3 letter abbreviation in capitals
+	y=sub job 3 letter abbreviation in capitals
 	z=key you hold for the macrobar to appear in lowercase.
 
 	for example: PLD_BLU_ctrl_macros.png
